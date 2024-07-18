@@ -1,8 +1,6 @@
 # -*- coding: utf-8 -*-
 """
 Created on Sun Dec 10 12:01:28 2023
-
-@author: mccan
 """
 import torch
 import torchvision
