@@ -8,8 +8,6 @@ The file used was the CNN-GAN file and was trained for 200 epochs using the MNIS
 ![image](https://github.com/user-attachments/assets/8086e76b-73ea-4da0-b6a6-6bd41f0bed0f)
 ![image](https://github.com/user-attachments/assets/b6e4554e-8c45-49f6-8b70-80a56fbd54d4)
 ![image](https://github.com/user-attachments/assets/0687d445-0a75-4c5a-963a-40aa5577c08a)
-
-![image](https://github.com/user-attachments/assets/ed825cdb-05da-4377-b3dd-6d88b1bf0803)
 ![image](https://github.com/user-attachments/assets/f018aef1-b911-4048-b935-d0f8e6346786)
 ![image](https://github.com/user-attachments/assets/43e8f925-cca9-49c0-9ea8-3b51298859c9)
 
